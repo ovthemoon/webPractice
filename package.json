@@ -15,6 +15,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage":"https://ovthemoon.github.io/webpractice",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -43,6 +44,5 @@
   },
   "devDependencies": {
     "@types/react-router-dom": "^5.3.3"
-  },
-  "homepage":"https://ovthemoon.github.io/webPractice"
+  }
 }
